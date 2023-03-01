@@ -1,0 +1,14 @@
+C:\repos\TesteJoao\Teste01\bin\Debug\netcoreapp3.0\Teste01.exe
+C:\repos\TesteJoao\Teste01\bin\Debug\netcoreapp3.0\Teste01.deps.json
+C:\repos\TesteJoao\Teste01\bin\Debug\netcoreapp3.0\Teste01.runtimeconfig.json
+C:\repos\TesteJoao\Teste01\bin\Debug\netcoreapp3.0\Teste01.runtimeconfig.dev.json
+C:\repos\TesteJoao\Teste01\bin\Debug\netcoreapp3.0\Teste01.dll
+C:\repos\TesteJoao\Teste01\bin\Debug\netcoreapp3.0\Teste01.pdb
+C:\repos\TesteJoao\Teste01\obj\Debug\netcoreapp3.0\Teste01.csproj.AssemblyReference.cache
+C:\repos\TesteJoao\Teste01\obj\Debug\netcoreapp3.0\Teste01.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\TesteJoao\Teste01\obj\Debug\netcoreapp3.0\Teste01.AssemblyInfoInputs.cache
+C:\repos\TesteJoao\Teste01\obj\Debug\netcoreapp3.0\Teste01.AssemblyInfo.cs
+C:\repos\TesteJoao\Teste01\obj\Debug\netcoreapp3.0\Teste01.csproj.CoreCompileInputs.cache
+C:\repos\TesteJoao\Teste01\obj\Debug\netcoreapp3.0\Teste01.dll
+C:\repos\TesteJoao\Teste01\obj\Debug\netcoreapp3.0\Teste01.pdb
+C:\repos\TesteJoao\Teste01\obj\Debug\netcoreapp3.0\Teste01.genruntimeconfig.cache
